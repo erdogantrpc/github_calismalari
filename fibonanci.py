@@ -4,6 +4,6 @@ def fib(fib1,fib2,count):
         return fib2
     return fib(fib2,fib1+fib2,count)
 
-print(fib(1,1,6))
+print(fib(1,1,7))
     
 	
